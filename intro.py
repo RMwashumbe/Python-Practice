@@ -1,0 +1,6 @@
+print("Welcome to Python Programming")
+print(5+8)
+print("5+8")
+print("My Name is Robert")
+print(5+9+8+9+9)
+print(9*8*7)
